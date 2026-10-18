@@ -1,2 +1,3 @@
-# esra-calik
-Author website of Esra Çalık, author of ASHREM: Bearer of Echoes.
+# Esra Çalık
+
+Author website. https://sirfurkanyilmazz.github.io/esra-calik/
